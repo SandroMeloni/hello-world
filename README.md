@@ -1,2 +1,2 @@
 # hello-world
-test repository 
+Test repository for Simplicial Econetworks project. 
